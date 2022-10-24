@@ -1,0 +1,89 @@
+body {
+  background-color: #f2f2f2;
+}
+a {
+  color: #000;
+}
+a:hover {
+  color: #000;
+  background-color: ffeea8;
+  font-weight: bold;
+}
+li {
+  padding-bottom: 5px;
+}
+
+.bg-yellow {
+  background-color: #ffeea8;
+}
+.f-12 {
+  font-size: 12px !important;
+}
+.f-14 {
+  font-size: 14px !important;
+}
+.f-16 {
+  font-size: 16px !important;
+}
+.f-18 {
+  font-size: 18px !important;
+}
+.w-fit-content {
+  width: fit-content !important;
+}
+.h-fit-content{
+  height: fit-content !important;
+}
+
+.highlight-underline {
+  border-bottom: 2px solid #ffcc00;
+}
+.profile-image {
+  margin-top: -18px;
+  -webkit-clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
+  clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+  color: #000;
+  font-weight: bold;
+  border-bottom: 2px solid #ffcc00;
+}
+
+
+
+/* .tag-yellow {
+  background-color: #ffcc00;
+  border-radius: 0.25rem;
+  font-weight: bold;
+  width: fit-content;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+} */
+/* # */
+/* #ffcc00  黃*/
+
+/* #f9f7ac 黃 */
+/* 
+標頭
+<div class="my-4 rounded">
+  <h1 class="fs-2 fw-bold">江宛諭 <small>Jacinda Jiang</small></h1>
+  <p class="mb-1 fw-bold">網站開發工程師</p>
+  <p>
+    我是一位具有五年以上開發經驗的工程師，致力開發出於具有美感的系統，<br />
+    不僅追求視覺與使用者體驗上的流暢，也重視程式美學，在程式碼的架構上追求乾淨、低偶合度與好維護的架構。
+  </p>
+</div>
+<div>
+  <!-- 個人資料 -->
+  <div class="mb-4">
+    <h2 class="fs-5 fw-bold">個人資料</h2>
+    <a class="mb-1" href="mailto:jaja018018@gmail.com">jaja018018@gmail.com</a> <br>
+    <a class="mb-1" href="https://github.com/WanJiang018">https://github.com/WanJiang018</a>
+  </div>
+  <!-- 學經歷 -->
+  <div>
+    <h2 class="fs-5 fw-bold">學經歷</h2>
+   <p>長庚大學 / 資訊管理學系 學士畢業</p>
+  </div>
+  <!-- Skills -->
+</div> --> */
